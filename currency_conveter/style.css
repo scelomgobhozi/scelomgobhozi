@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Raleway:wght@200&family=Roboto:wght@300&display=swap');
+
+
+body{
+    background-image: linear-gradient(45deg, #F367BB, #CC56DF,#D246A3);
+    background-repeat: no-repeat;
+    height: 600px;
+
+    
+}
+
+.form-wrapper{
+padding: 3rem 2rem;    
+width: 250px;
+background-color: white;   
+
+height: 200px;
+margin: auto;
+margin-top: 8rem;
+
+border-radius: 30px;
+}
+
+
+
+nav h1{
+text-align: center;    
+color: white;
+font-family: 'Raleway', sans-serif;
+}
+
+
+.form-wrapper input{
+font-family: 'Montserrat', sans-serif;
+}
+
+.form-wrapper label{
+
+font-family: 'Roboto', sans-serif;    
+}
+
+
+.L-I1{
+    margin-top: 2rem;   
+    margin-bottom: 2rem;
+}
+   
+
+
+.L-I2{
+ margin-top: 2rem;   
+ margin-bottom: 2rem;
+}
+
+
+
+.baseC{
+ width: 30px;   
+}
+
+.amount{
+width: 80px;    
+}
+
+.vscurrency{
+margin-left: 1rem;    
+width: 35px;    
+}
+
+.output{
+ border-top: none;   
+ border-left: none;
+ border-right: none;
+
+ width: fit-content;
+ border-bottom:0.5px gray solid;
+}
+
+.sub-btn{
+background-color: #D246A3;    
+padding: 6px;
+border: none;
+border-radius: 5px;
+color: white;
+font-family: 'Roboto', sans-serif
+}
