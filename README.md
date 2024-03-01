@@ -5,6 +5,7 @@ I'm a young tech enthusiast who has recently graduated with a Bachelor of Commer
 
 ## 🎓 Education
 - Bachelor of Commerce in Information and Technology Management
+- Higher Certificate in Information Technology
 
 ## 💻 Tech Stack
 I am proficient in several programming languages and frameworks essential for web development, including:
