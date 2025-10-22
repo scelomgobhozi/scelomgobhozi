@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I’m a tech enthusiast with a **Bachelor of Commerce in Information and Technology Management**, passionate about building impactful digital solutions.  
-With **over one year of industry experience**, I’ve worked on projects that bridge creativity and functionality — from building APIs to developing modern web interfaces.  
+With **over one year of industry experience**, I’ve worked on projects that bridge creativity and functionality from building APIs to developing modern web interfaces.  
 My journey in technology is guided by curiosity, creativity, and a commitment to continuous learning.
 
 ## 🎓 Education
