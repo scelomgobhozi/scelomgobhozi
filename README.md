@@ -1,7 +1,7 @@
 # Hi there, I'm Sicelo Mgobhozi 👋
 
 ## 🚀 About Me
-I'm a young tech enthusiast who has recently graduated with a Bachelor of Commerce in Information and Technology Management. At 23, I'm on a journey to explore the vast landscape of technology and development, driven by a passion for creating impactful digital solutions. Through coding and creativity, I aim to make a mark in the world of technology.
+I’m a tech enthusiast with a Bachelor of Commerce in Information and Technology Management. I’m on a journey to explore the vast landscape of technology and development, driven by a passion for creating impactful digital solutions. Through coding and creativity, I aim to make a lasting mark in the world of technology.
 
 ## 🎓 Education
 - Bachelor of Commerce in Information and Technology Management
