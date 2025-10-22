@@ -27,7 +27,7 @@ Join me on my journey to becoming a software developer!
 I document my experiences, share insights, and explore the challenges and wins of the dev world — all aimed at helping others grow in tech.
 
 ## 🌐 Find Me Online
-- [**My Personal Website**](https://sicelomgobhozi.netlify.app/) – Explore my projects, blogs, and more about what I do.
+- [**My Personal Website**](https://sicelomgobhozi.netlify.app/) – Explore my projects.
 
 ## 🤝 Connect With Me
 I’m always open to collaborating, sharing knowledge, or connecting with fellow developers.  
