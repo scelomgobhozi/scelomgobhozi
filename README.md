@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 I’m a tech enthusiast with a **Bachelor of Commerce in Information and Technology Management**, passionate about building impactful digital solutions.  
-My journey in technology is guided by curiosity, creativity, and a commitment to continuous learning.  
-From crafting APIs to designing intuitive user experiences, I’m driven by the goal of turning ideas into functional, scalable software.
+With **over one year of industry experience**, I’ve worked on projects that bridge creativity and functionality — from building APIs to developing modern web interfaces.  
+My journey in technology is guided by curiosity, creativity, and a commitment to continuous learning.
 
 ## 🎓 Education
 - **Bachelor of Commerce in Information and Technology Management**
